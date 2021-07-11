@@ -1,1 +1,1 @@
-{ name: "Pepe" }
+{ name: "Pepe", age: 3 }
